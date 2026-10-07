@@ -1,0 +1,7 @@
+¡Hola!
+
+Este archivo forma parte de un repositorio
+del taller "Del dataset a U-Net".
+
+Si puedes leer este mensaje desde Google Colab,
+has clonado y utilizado correctamente los archivos del proyecto.
